@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #78beec;
+    color: white;
+}
+
+/* Game container */
+.game-container {
+    margin-top: 50px;
+}
+
+/* Color boxes */
+.color-box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.color-box:hover {
+    transform: scale(1.1);
+}
+
+/* Button */
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}

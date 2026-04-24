@@ -1,0 +1,59 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(116, 116, 194);
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #2be7e7;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+/* Sub headings */
+h2 {
+    color: #1e4d2b;
+    border-bottom: 2px solid #1e4d2b;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+/* Paragraph */
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #083d1a;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 3px solid #1e4d2b;
+}
+
+/* Lists */
+ul, ol {
+    background-color: #d4f0d9;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: 20px auto;
+}
+
+/* List items */
+li {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+/* Hover effect (extra styling) */
+li:hover {
+    color: darkgreen;
+} 
