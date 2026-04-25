@@ -1,0 +1,19 @@
+#A {
+  background-color: lightblue;
+  border-radius: 20px;
+}
+
+#B {
+  background-color: lightcoral;
+  border-style: dashed;
+}
+
+#C {
+  background-color: lightgreen;
+  box-shadow: 5px 5px 10px gray;
+}
+
+#D {
+  background-color: gold;
+  transform: rotate(5deg);
+}
