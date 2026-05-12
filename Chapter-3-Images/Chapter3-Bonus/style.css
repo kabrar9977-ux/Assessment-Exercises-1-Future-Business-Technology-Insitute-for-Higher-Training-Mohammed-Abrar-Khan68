@@ -4,13 +4,21 @@ div {
   font-size: 20px;
   margin: 25px;
   border: 4px solid black;
-  line-height: 100px;
+  line-height: 200px;
   text-align: center;
   width: 200px;
   height: 200px;
+  background: white;
 }
 
 body {
   margin: 100px auto;
   width: max-content;
+  padding: 20px;
+  background: #f2f2f2;
+}
+
+h1, p {
+  font-family: sans-serif;
+  margin: 0 0 10px 25px;
 }
