@@ -1,0 +1,23 @@
+div:nth-of-type(1) {
+    border-color: blueviolet;
+    box-shadow: 10px 10px 15px red;
+}
+
+div:nth-of-type(2) {
+    border-color: lime;
+    box-shadow: inset 10px 10px 15px black;
+}
+
+div:nth-of-type(3) {
+    border: 10px solid orange;
+    border-radius: 30px;
+    box-shadow:
+        0 0 0 10px blue,
+        0 0 0 20px red,
+        0 0 0 30px green;
+}
+
+div:nth-of-type(4) {
+    border-color: brown;
+    text-shadow: 4px 4px 3px black;
+}
