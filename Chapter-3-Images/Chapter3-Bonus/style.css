@@ -1,5 +1,3 @@
-/* Simple CSS for Styling Divs Exercise */
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,7 +6,6 @@ body {
     line-height: 1.6;
 }
 
-/* Container */
 .container {
     max-width: 800px;
     margin: 0 auto;
@@ -18,7 +15,6 @@ body {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-/* Typography */
 h1 {
     color: #333;
     text-align: center;
@@ -32,7 +28,6 @@ p {
     text-align: center;
 }
 
-/* Common box style */
 .box {
     display: inline-block;
     width: 200px;
@@ -48,19 +43,16 @@ p {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* A - purple border + red shadow */
 .a {
     border: 4px solid #7700ff;
     box-shadow: 8px 8px 0 #ff1493;
 }
 
-/* B - green border with dark shadow on top and left */
 .b {
     border: 4px solid #00cc00;
     box-shadow: inset 8px 8px 15px rgba(0, 0, 0, 0.9);
 }
 
-/* C - multiple borders (effect using box-shadow) */
 .c {
     border-radius: 25px;
     border: 4px solid #ff6600;
@@ -70,15 +62,11 @@ p {
         0 0 0 24px #00cc00;
 }
 
-/* D - dark red border */
 .d {
     border: 4px solid #990000;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-
-
-/* Code blocks */
 pre {
     background: #2d3748;
     color: #e2e8f0;
