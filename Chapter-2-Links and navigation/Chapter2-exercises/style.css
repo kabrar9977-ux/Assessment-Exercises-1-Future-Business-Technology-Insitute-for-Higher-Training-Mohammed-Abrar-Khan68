@@ -32,9 +32,6 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
 
 ul {
     background-color: #333;
@@ -54,9 +51,6 @@ li a {
     font-weight: bold;
 }
 
-li a:hover {
-    color: #c41e3a;
-}
 
 main {
     max-width: 700px;
@@ -72,8 +66,4 @@ main {
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-}
-
-.btn:hover {
-    background-color: #a0172e;
 }
